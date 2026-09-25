@@ -151,6 +151,9 @@ The model's feature coefficients were also analyzed to identify variables associ
 
 ---
 
+## 📸 Project Screenshot
+
+![Customer Churn Analysis Dashboard](screenshots/customer_churn_analysis_screenshot.png)
 ## 📊 Power BI Dashboard
 
 The cleaned dataset was prepared for Power BI dashboard development.
